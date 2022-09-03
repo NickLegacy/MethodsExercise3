@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StatementsLoopsEx3/1.0.0": {
+        "runtime": {
+          "StatementsLoopsEx3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StatementsLoopsEx3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

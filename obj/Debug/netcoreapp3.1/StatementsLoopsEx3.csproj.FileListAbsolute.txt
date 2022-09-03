@@ -1,0 +1,14 @@
+C:\Users\nickl\source\repos\StatementsLoopsEx3\obj\Debug\netcoreapp3.1\StatementsLoopsEx3.csproj.AssemblyReference.cache
+C:\Users\nickl\source\repos\StatementsLoopsEx3\obj\Debug\netcoreapp3.1\StatementsLoopsEx3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickl\source\repos\StatementsLoopsEx3\obj\Debug\netcoreapp3.1\StatementsLoopsEx3.AssemblyInfoInputs.cache
+C:\Users\nickl\source\repos\StatementsLoopsEx3\obj\Debug\netcoreapp3.1\StatementsLoopsEx3.AssemblyInfo.cs
+C:\Users\nickl\source\repos\StatementsLoopsEx3\obj\Debug\netcoreapp3.1\StatementsLoopsEx3.csproj.CoreCompileInputs.cache
+C:\Users\nickl\source\repos\StatementsLoopsEx3\bin\Debug\netcoreapp3.1\StatementsLoopsEx3.exe
+C:\Users\nickl\source\repos\StatementsLoopsEx3\bin\Debug\netcoreapp3.1\StatementsLoopsEx3.deps.json
+C:\Users\nickl\source\repos\StatementsLoopsEx3\bin\Debug\netcoreapp3.1\StatementsLoopsEx3.runtimeconfig.json
+C:\Users\nickl\source\repos\StatementsLoopsEx3\bin\Debug\netcoreapp3.1\StatementsLoopsEx3.runtimeconfig.dev.json
+C:\Users\nickl\source\repos\StatementsLoopsEx3\bin\Debug\netcoreapp3.1\StatementsLoopsEx3.dll
+C:\Users\nickl\source\repos\StatementsLoopsEx3\bin\Debug\netcoreapp3.1\StatementsLoopsEx3.pdb
+C:\Users\nickl\source\repos\StatementsLoopsEx3\obj\Debug\netcoreapp3.1\StatementsLoopsEx3.dll
+C:\Users\nickl\source\repos\StatementsLoopsEx3\obj\Debug\netcoreapp3.1\StatementsLoopsEx3.pdb
+C:\Users\nickl\source\repos\StatementsLoopsEx3\obj\Debug\netcoreapp3.1\StatementsLoopsEx3.genruntimeconfig.cache
